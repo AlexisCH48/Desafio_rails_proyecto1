@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+# Desafio_rails_proyecto1
+https://intense-hamlet-90993.herokuapp.com/
+version de ruby 2.6.6
